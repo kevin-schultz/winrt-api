@@ -17,3 +17,6 @@ Provides access to data about the CPU usage of a process.
 ## -examples
 
 ## -see-also
+
+## -capabilities
+appDiagnostics
